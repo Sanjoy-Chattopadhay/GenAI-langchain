@@ -1,0 +1,29 @@
+# Langchain Core
+langchain
+langchain-core
+grandalf
+langchain_community
+
+# OpenAI Integration
+langchain-openai
+openai
+
+# Gemini Integration
+langchain_google_genai
+
+# Hugging face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Environment variable management
+python-dotenv
+
+# Machine Learning utilities
+numpy
+scikit-learn
+
+# output perser
+pydantic
+pypdf
+beautifulsoup4
